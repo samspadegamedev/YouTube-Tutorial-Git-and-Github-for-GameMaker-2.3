@@ -1,5 +1,5 @@
 /// @description Object Three
 
 
-count += increment * scale;
+count += increment;
 show_debug_message(count);
